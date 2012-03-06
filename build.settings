@@ -1,0 +1,25 @@
+settings = 
+{
+	iphone =
+	{
+		plist =
+		{
+	        CFBundleIconFile = "Icon.png",
+	
+			UIAppFonts = 
+			{
+				"NeoSans-Bold.otf"
+			}
+		},
+	},
+	
+	orientation = 
+	{
+		default = "portrait",
+		supported = 
+		{
+		"portrait",
+		},
+					
+	},
+}
